@@ -69,6 +69,15 @@ lxterminal
 
 
 ##
+## ## Package / Terminal / ptyxis
+##
+
+#ptyxis
+
+
+
+
+##
 ## ## Package / Terminal / tilix
 ##
 
