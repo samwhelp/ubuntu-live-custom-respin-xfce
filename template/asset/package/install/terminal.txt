@@ -45,7 +45,7 @@ xfce4-terminal
 ## ## Package / Terminal / lxterminal
 ##
 
-#lxterminal
+lxterminal
 
 
 
