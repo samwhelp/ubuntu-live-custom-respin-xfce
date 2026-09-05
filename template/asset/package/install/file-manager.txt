@@ -20,7 +20,7 @@
 ## ## Package / File Manager / pcmanfm
 ##
 
-#pcmanfm
+pcmanfm
 
 
 
