@@ -17,6 +17,15 @@
 
 
 ##
+## ## Coreutils
+##
+
+core-coreutils-from-gnu
+
+
+
+
+##
 ## ## Firefox
 ##
 
