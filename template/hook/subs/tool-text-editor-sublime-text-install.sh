@@ -43,7 +43,7 @@ BASE_DIR_PATH="$(dirname "$(realpath "${0}")")"
 
 function mod_tool_text_editor_sublime_text_install () {
 
-	local deb_version="4200"
+	local deb_version="4213"
 	local deb_name="sublime-text_build-${deb_version}_amd64.deb"
 	local deb_url="https://download.sublimetext.com/${deb_name}"
 	local tmp_dir_path="/tmp/sublime-text"
